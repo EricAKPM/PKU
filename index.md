@@ -1,9 +1,3 @@
----
-title: Inicio
-layout: template
-filename: index
---- 
-
 # Sobre o aplicativo
 O aplicativo PKU eh.....
 
