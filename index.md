@@ -11,6 +11,6 @@ filename: index
 -......
 
 # Diagramas
-## Diagrama de classe
-## Diagrama Logico do banco de dados
-## Diagrama de sequencia
+### Diagrama de classe
+### Diagrama Logico do banco de dados
+### Diagrama de sequencia
