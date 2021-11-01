@@ -5,10 +5,10 @@ filename: index
 --- 
 
 # Sobre o aplicativo
--O aplicativo PKU eh.....
+O aplicativo PKU eh.....
 
-#Tecnologias usadas
--......
+# Tecnologias usadas
+......
 
 # Diagramas
 ### Diagrama de classe
