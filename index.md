@@ -2,8 +2,6 @@
 title: PKU MONITOR
 layout: template
 filename: index
-button: Inicio
-blocker: 1
 --- 
 
 # Sobre o aplicativo
