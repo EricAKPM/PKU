@@ -4,7 +4,7 @@ layout: template
 filename: index
 --- 
 
-<html lang="en">
+<html>
 <body>
     <h1>Sobre o aplicativo</h1>
     <p>O aplicativo PKU eh.....</p>
