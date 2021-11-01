@@ -4,7 +4,6 @@ layout: template
 filename: index
 --- 
 
-<!DOCTYPE html>
 <html lang="en">
 <body>
     <h1>Sobre o aplicativo</h1>
