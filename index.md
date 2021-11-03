@@ -14,3 +14,15 @@ O aplicativo PKU eh.....
   <img src="imagensPKU/cadastrarConsumo.png" style="margin-top:50px" align="center">
   <img src="imagensPKU/Login.png" style="margin-top:50px" align="center">
 </div>
+
+# Tecnologias utilizadas
+##Front-End
+⋅⋅*Saga
+⋅⋅*Redux
+⋅⋅*Axios
+⋅⋅*Navigation 
+⋅⋅*Expo
+⋅⋅*Yarn
+⋅⋅*Style
+⋅⋅*Node modules
+
