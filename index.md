@@ -17,12 +17,12 @@ O aplicativo PKU eh.....
 
 # Tecnologias utilizadas
 ##Front-End
-⋅⋅*Saga
-⋅⋅*Redux
-⋅⋅*Axios
-⋅⋅*Navigation 
-⋅⋅*Expo
-⋅⋅*Yarn
-⋅⋅*Style
-⋅⋅*Node modules
+..*Saga
+..*Redux
+..*Axios
+..*Navigation 
+..*Expo
+..*Yarn
+..*Style
+..*Node modules
 
