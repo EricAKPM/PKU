@@ -16,7 +16,7 @@ O aplicativo PKU eh.....
 </div>
 
 # Tecnologias utilizadas
-##Front-End
+## Front-End
 ..*Saga
 ..*Redux
 ..*Axios
