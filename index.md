@@ -2,7 +2,7 @@
 O aplicativo PKU eh.....
 
 # Arquitetura
-<img src="imagensPKU/diagramaClasse.png" style="margin-top:50px, margin-bottom:50px" align="center">
+<img src="imagensPKU/Arquitetura.png" style="margin-top:50px, margin-bottom:50px" align="center">
 
 # Diagramas
 ### Diagrama de classe
