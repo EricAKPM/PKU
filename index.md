@@ -17,7 +17,7 @@ O aplicativo PKU eh.....
 
 # Tecnologias utilizadas
 ## Front-End
-..*Saga
+..* Saga
 
 
 ..*saga
