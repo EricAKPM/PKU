@@ -1,8 +1,8 @@
 # Sobre o aplicativo
 O aplicativo PKU eh.....
 
-# Tecnologias usadas
-......
+# Arquitetura
+<img src="imagensPKU/Arquitetura.png" style="margin-top:50px, margin-bottom:50px" align="center">
 
 # Diagramas
 ### Diagrama de classe
@@ -12,5 +12,4 @@ O aplicativo PKU eh.....
   <img src="imagensPKU/consultarHistorico.png" style="margin-top:5px" align="center">
   <img src="imagensPKU/cadastrarConsumo.png" style="margin-top:50px" align="center">
   <img src="imagensPKU/Login.png" style="margin-top:50px" align="center">
-  <img src="imagensPKU/Arquitetura.png" style="margin-top:50px" align="center">
 </div>
