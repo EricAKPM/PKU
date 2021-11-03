@@ -27,3 +27,19 @@ O aplicativo PKU eh.....
 ### Yarn
 ### Style
 ### Node modules
+
+## Back-End
+### Spring
+### Rest
+### Maven
+### Toncat
+### Swagger
+
+## Outras
+### Trello
+### Flux
+### Git
+### Docker
+
+
+
