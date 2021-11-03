@@ -18,7 +18,7 @@ O aplicativo PKU eh.....
 # Tecnologias utilizadas
 ## Front-End
 ### Saga
-⋅⋅⋅ Teste ⋅⋅
+  <blockquote><a href="https://redux-saga.js.org/">Saga</a> eh...</blockquote >
 ### Redux
 ### Axios
 ### Navigation 
