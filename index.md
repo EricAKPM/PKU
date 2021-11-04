@@ -11,7 +11,9 @@
 
 # Sobre o projeto
 &nbsp; &nbsp;  A equipe de desenvolvimento tem reuniões semanais, a fim de discutir o andamento do projeto. São discutidas as tecnologias adotadas, verificadas as tarefas executadas, definidas as próximas etapas.
+
 &nbsp; &nbsp;  Eventualmente, reuniões técnicas são realizadas, a fim de suprir demandas tecnológicas. Da mesma forma, são feitas reuniões com os membros da equipe da área de saúde para convalidar as etapas realizadas ou definir aspectos que requerem conhecimentos especializados.
+
 &nbsp; &nbsp;  Para o acompanhamento do projeto, estão sendo utilizadas as seguintes ferramentas: Trello, GITHub e ClickUp. O ambiente de desenvolvimento que está sendo utilizado pelos desenvolvedores é o Visual Sudio Code.
 
 # Implementação
