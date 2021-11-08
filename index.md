@@ -12,26 +12,6 @@ Górski, G. V., Piekarski, A. E. T., & Freitas, G. B. L. de (2017). Aplicativo d
 Piekarski, A. E. T., Quinaia, M. A., & Freitas, G. B. L. de (2020). PKU Monitor - aplicativo de apoio a fenilcetonúria [Projeto de Extensão]. Unicentro, Guarapuava, PR. https://sguweb.unicentro.br/webrel/webrel.php?id=97&idf=5f5f5c36-f190-45d5-9fbd-d1a5c8c90a21 .
 Urtado, J. V. M., & Piekarski, A. E. T. (2019). PKUMonitor: a nova versão do aplicativo PKUniverse [Relatório Final (Estágio Supervisionado), Bacharelado em Ciência da Computação]. Unicentro, Guarapuava, PR. Retrieved 09 18, 2020, from https://drive.google.com/open?id=1yDsyB3RUyvdCCC9F5mLIZZItz-Bph-UN
 
-
-# Sobre o projeto
-&nbsp; &nbsp;  A equipe de desenvolvimento tem reuniões semanais, a fim de discutir o andamento do projeto. São discutidas as tecnologias adotadas, verificadas as tarefas executadas, definidas as próximas etapas.
-
-&nbsp; &nbsp;  Eventualmente, reuniões técnicas são realizadas, a fim de suprir demandas tecnológicas. Da mesma forma, são feitas reuniões com os membros da equipe da área de saúde para convalidar as etapas realizadas ou definir aspectos que requerem conhecimentos especializados.
-
-&nbsp; &nbsp;  Para o acompanhamento do projeto, estão sendo utilizadas as seguintes ferramentas: Trello, GITHub e ClickUp. O ambiente de desenvolvimento que está sendo utilizado pelos desenvolvedores é o Visual Sudio Code.
-
-# Implementação
-&nbsp; &nbsp;  Para a implementação do protótipo, foram consideradas algumas das tecnologias mais comumente utilizadas (estado do mercado). Considerando a experiência da equipe de desenvolvedores e dos mentores, bem como o material de apoio disponível na internet, optou-se por utilizar a plataforma React Native.
-
-&nbsp; &nbsp;  O protótipo do front-end foi desenvolvido utilizando React Native, a biblioteca Redux e o middleware Redux-Saga.
-
-&nbsp; &nbsp;  Para o back-end, devem ser avaliadas a plataforma Node e como base de dados, o serviço MongoDB. 
-
-# Identidade visual
-
-# Próximas etapas
-&nbsp; &nbsp; Conforme o projeto do aplicativo, além do redesenho das telas, deve ser implementado o back-end. Uma demanda importante é a forma de sincronização dos dados, pois o aplicativo deve ser funcional mesmo em situações onde não há disponibilidade de internet, garantindo a integridade dos dados para os usuários. 
-
 # Arquitetura
 <img src="imagensPKU/Arquitetura.png" style="margin-top:50px, margin-bottom:50px" align="center">
 
@@ -48,29 +28,29 @@ Urtado, J. V. M., & Piekarski, A. E. T. (2019). PKUMonitor: a nova versão do ap
 
 # Tecnologias utilizadas
 ## Front-End
-### Saga
+* Saga
   <blockquote><a href="https://redux-saga.js.org/" target="_blank">Saga</a> eh...</blockquote>
   
-### Redux
-### Axios
-### Navigation 
-### Expo
-### Yarn
-### Style
-### Node modules
+* Redux
+* Axios
+* Navigation 
+* Expo
+* Yarn
+* Style
+* Node modules
 
 ## Back-End
-### Spring
-### Rest
-### Maven
-### Toncat
-### Swagger
+* Spring
+* Rest
+* Maven
+* Toncat
+* Swagger
 
 ## Outras
-### Trello
-### Flux
-### Git
-### Docker
+* Trello
+* Flux
+* Git
+* Docker
 
 # Equipe
 ### Ana Elisa Tozetto Piekarski
