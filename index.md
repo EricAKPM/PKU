@@ -23,9 +23,9 @@ Urtado, J. V. M., & Piekarski, A. E. T. (2019). PKUMonitor: a nova versão do ap
 ### Diagrama Logico do banco de dados
 ### Diagrama de Sequencia
 <div>
+  <img src="imagensPKU/Login.png" style="margin-top:50px" align="center">
   <img src="imagensPKU/consultarHistorico.png" style="margin-top:5px" align="center">
   <img src="imagensPKU/cadastrarConsumo.png" style="margin-top:50px" align="center">
-  <img src="imagensPKU/Login.png" style="margin-top:50px" align="center">
 </div>
 
 # Tecnologias utilizadas
@@ -55,10 +55,10 @@ Urtado, J. V. M., & Piekarski, A. E. T. (2019). PKUMonitor: a nova versão do ap
 * Docker
 
 # Equipe
-### Ana Elisa Tozetto Piekarski
-### Guilherme Barroso Langoni de Freitas
-### Guilherme Vinícius Górski da Silva
-### Juliano Carvalho
-### Luis Henrique Cheuczuk
-### Bruno de Souza Godoi Fred
-### Eric Patrick Militão
+* Ana Elisa Tozetto Piekarski
+* Guilherme Barroso Langoni de Freitas
+* Guilherme Vinícius Górski da Silva
+* Juliano Carvalho
+* Luis Henrique Cheuczuk
+* Bruno de Souza Godoi Fred
+* Eric Patrick Militão
