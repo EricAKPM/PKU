@@ -9,7 +9,9 @@
 
 ## Referencias bibliográficas 
 Górski, G. V., Piekarski, A. E. T., & Freitas, G. B. L. de (2017). Aplicativo de apoio ao manejo dietoterápico para fenilcetonúria [Trabalho de Conclusão de Curso, Bacharelado em Ciência da Computação]. Unicentro, Guarapuava, PR.
+
 Piekarski, A. E. T., Quinaia, M. A., & Freitas, G. B. L. de (2020). PKU Monitor - aplicativo de apoio a fenilcetonúria [Projeto de Extensão]. Unicentro, Guarapuava, PR. https://sguweb.unicentro.br/webrel/webrel.php?id=97&idf=5f5f5c36-f190-45d5-9fbd-d1a5c8c90a21 .
+
 Urtado, J. V. M., & Piekarski, A. E. T. (2019). PKUMonitor: a nova versão do aplicativo PKUniverse [Relatório Final (Estágio Supervisionado), Bacharelado em Ciência da Computação]. Unicentro, Guarapuava, PR. Retrieved 09 18, 2020, from https://drive.google.com/open?id=1yDsyB3RUyvdCCC9F5mLIZZItz-Bph-UN
 
 # Arquitetura
