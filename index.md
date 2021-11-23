@@ -15,16 +15,16 @@ Piekarski, A. E. T., Quinaia, M. A., & Freitas, G. B. L. de (2020). PKU Monitor 
 Urtado, J. V. M., & Piekarski, A. E. T. (2019). PKUMonitor: a nova versão do aplicativo PKUniverse [Relatório Final (Estágio Supervisionado), Bacharelado em Ciência da Computação]. Unicentro, Guarapuava, PR. Retrieved 09 18, 2020, from https://drive.google.com/open?id=1yDsyB3RUyvdCCC9F5mLIZZItz-Bph-UN
 
 # Arquitetura
-<img src="imagensPKU/Arquitetura.png" style="margin-top:50px, margin-bottom:50px; width: 80%; height: auto" align="center">
+<img src="imagensPKU/Arquitetura.png" style="margin-top:50px, margin-bottom:50px; width: 100%; height: auto" align="center">
 
 # Diagramas
 ### Diagrama de classe
-  <img src="imagensPKU/diagramaClasse.png" style="margin-top:50px, margin-bottom:50px; width: 80%; height: auto" align="center">
+  <img src="imagensPKU/diagramaClasse.png" style="margin-top:50px, margin-bottom:50px; width: 100%; height: auto" align="center">
 ### Diagrama Logico do banco de dados
 ### Diagrama de Sequencia
 <div>
-  <img src="imagensPKU/Login.png" style="margin-top:50px; width: 100%; height: auto" align="center">
-  <img src="imagensPKU/Cadastrar Produto.png" style="margin-top:50px; width: 100%; height: auto" align="center">
+  <img src="imagensPKU/Login.png" style="margin-top:50px; width: 80%; height: auto" align="center">
+  <img src="imagensPKU/Cadastrar Produto.png" style="margin-top:50px; width: 80%; height: auto" align="center">
   <img src="imagensPKU/cadastrarConsumo.png" style="margin-top:50px; width: 80%; height: auto" align="center">
   <img src="imagensPKU/consultarHistorico.png" style="margin-top:50px; width: 80%; height: auto" align="center">
 </div>
