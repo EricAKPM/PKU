@@ -56,9 +56,9 @@ Urtado, J. V. M., & Piekarski, A. E. T. (2019). PKUMonitor: a nova versão do ap
 
 # Equipe
 * Ana Elisa Tozetto Piekarski
+* Bruno de Souza Godoi Fred
+* Eric Patrick Militão
 * Guilherme Barroso Langoni de Freitas
 * Guilherme Vinícius Górski da Silva
 * Juliano Carvalho
 * Luis Henrique Cheuczuk
-* Bruno de Souza Godoi Fred
-* Eric Patrick Militão
