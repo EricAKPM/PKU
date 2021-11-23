@@ -24,8 +24,9 @@ Urtado, J. V. M., & Piekarski, A. E. T. (2019). PKUMonitor: a nova versão do ap
 ### Diagrama de Sequencia
 <div>
   <img src="imagensPKU/Login.png" style="margin-top:50px" align="center">
-  <img src="imagensPKU/consultarHistorico.png" style="margin-top:5px" align="center">
+  <img src="imagensPKU/Cadastrar Produto.png" style="margin-top:50px" align="center">
   <img src="imagensPKU/cadastrarConsumo.png" style="margin-top:50px" align="center">
+  <img src="imagensPKU/consultarHistorico.png" style="margin-top:5px" align="center">
 </div>
 
 # Tecnologias utilizadas
